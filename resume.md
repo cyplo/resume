@@ -1,14 +1,19 @@
 
-#Cyryl Płotnicki-Chudyk
-- jobs@cyplo.net
-- https://www.cyplo.net
+#[Cyryl Płotnicki-Chudyk](mailto:resume@cyplo.net)
+
+---
+
+##Books
+["500 Lines or Less"](https://github.com/aosabook/500lines)  
+I helped a bit with this new entry in the Architecture of Open Source Applications book series.  
+I was  one of the reviewers for a chapter of a Mozillian [here](https://github.com/aosabook/500lines/pull/69) !
 
 ---
 ##Day jobs
-I'm take a problem and dig into it. I help solve the business issues, most commonly using software. At most of of my jobs my day consisted of writing programs, documentation, reviewing code, recruiting and teaching. 
+I take a problem and dig into it. I help solve the business issues, most commonly using software. At most of my jobs my day consisted of writing programs, documentation, reviewing code, recruiting and teaching. 
 
 **Consultant** at Infusion, *June 2012 - Now*  
-Here I'm a main driving force behind Infusion's revamped on-boarding programme, making sure that the new hires feel welcome and that they end the first 3 months with a knowledge of company's culture and best programming practices. I also do write code here. Mostly Java and .Net, sprinkled with some c, c++, python, bash and powershell.
+I'm a main driving force behind Infusion's revamped on-boarding programme, making sure that the new hires feel welcome and that they end the first 3 months with a knowledge of company's culture and best programming practices. Writing code is still where I spend most of my time and happily so. Mostly **Java** and **.Net**, sprinkled with some **C**, **C++**, **Python**, bash and powershell.
 
 Projects:  
 
@@ -17,159 +22,52 @@ Projects:
 * I've worked for other financial institutions on distributed software for risk exposure analysis. Mostly .net, some c++, large in-house computation farms involved.
 
 
----
-
 **Senior Software Engineer**, Power Media S.A., *February 2011 - June 2012*
 
-I was asked to return to Power Media by the head of the whole department, this was quite cool ! I've helped recruit more people and was one of the developers working on the system for TV materials storage. The system was written in C#. 
+I was asked to return to Power Media by the head of the whole department, this was quite cool ! I've helped recruit more people and was one of the developers working on the system for TV materials storage. The system was written in **C#**, but I've also took a look inside an **Erlang** one and a one in **Obj-c** as well, from time to time. I've convinced the company to [open source](https://github.com/powermedia/PowerMedia.Common) the core libraries used.
 
----
 
 **Mobile Games Developer**, iNTRES/Scoreloop, *December 2009 - February 2011*  
 
-I was a part of a team that was tasked with developing a cross-platform, pure C library that provided matchmaking, ladders and other networking capabilities to mobile games, Pro Evolution Soccer 2011 among others. We've used C89 as the base language.
+I was a part of a team that was tasked with developing a cross-platform, pure C library that provided matchmaking, ladders and other networking capabilities to mobile games, **Pro Evolution Soccer 2011** among others. We've used C89 as the base language. There was another team, working in Ruby on the server side, we had lots of chats with them on the APIs. Oftentimes I needed to delve deeply into performance issues on completely foreign legacy code bases.
 
 ---
 
-**Lead Developer, Custom Software Development**, Power Media S.A., *June 2007 - December 2009*
+**Lead Developer**, Power Media S.A., *June 2007 - December 2009*
 
+This was my first experience as leader. Despite all this we've managed to build new [travelplanet.pl](http://www.travelplanet.pl/) - a website for the biggest trip broker in Poland. This was a .net job and involved some quite heavy server machinery. Around **60 different data sources** were involved. In the meantime I've also helped with growing the **Erlang** team and got my hands dirty with proof-of-concept **low-level** Mac **PowerPC** programming. 
 
-
-
----
 
 **Software Developer**, Power Media S.A., *June 2006 - June 2007*
 
-
-
-
----
-
-##Books
-I'm a technical reviewer for ["500 Lines or Less"](https://github.com/aosabook/500lines), a new entry in the Architecture of Open Source Applications book series. I was one of the reviewers for the chapter of a Mozillian [here](https://github.com/aosabook/500lines/pull/69).
-
-##Projects &amp; Interests
-
-**GitHub - PowerMedia.Common**, [https://github.com/powermedia/PowerMedia.Common](https://github.com/powermedia/PowerMedia.Common), *January 2012 - July 2013*
-
-
-
-  
-
+My first "real" job ! Maintenance on the in-house systems written in Java. Slowly I got into client-facing project as well. Java, Webobjects.
 
 ---
 
-**GitHub - Devoid**, [https://github.com/cyplo/Devoid](https://github.com/cyplo/Devoid), *August 2010 - November 2012*
+##Some talks I gave
+Most of them on the user group meetings across the country. No conferences yet. The links provided are for the slide decks. I prefer dense talk with sparse slides though.  
 
+["Tor for beginners"](https://github.com/cyplo/talks/tree/master/tor_for_beginners) - A talk I gave to the local students' groups on the safety on the Internet and what is Tor, why to use it and why not.
 
-Sandbox for evaluating game AI ideas
-  
+["Erlang tech night"](https://github.com/erlang-wroclaw/erlang_tech_night) - introduction to Erlang with some live coding by me and my friend Fabian
 
-
----
-
-**CodePlex - C-Metrics**, [http://cmetrics.codeplex.com/](http://cmetrics.codeplex.com/), *March 2009 - August 2010*
-
-c#, mono
-
-C-Metrics is a command line tool for calculating most popular c# code metrics. It aims to be used in continous integration systems such as buildbot.
-100% mono compatible
-Currently supported metrics :
-SLOC
-ELOC
-
-Created by Cyryl Plotnicki-Chudyk
-  
-
+["Anatomy of a debugger"](https://prezi.com/hzvnsznfkgwj/anatomy-of-the-debugger/)  - very high-level overview of how debugging works
 
 ---
 
-**travelplanet.pl's frontend and backend**, [http://www.travelplanet.pl/](http://www.travelplanet.pl/)
-
-c#
-
-
-  
-lead developer
+##Random hobbies
+I like electronics, I design PCBs using KiCad. Rock climbing. Cycling. I've built a sun-powered storage server that acts as a Tor relay as well. I like vim and zsh.
+Curious reader might want to follow my blog at [blog.cyplo.net](https://blog.cyplo.net/)
 
 ---
 
-**GitHub - Talks by Cyryl**, [https://github.com/cyplo/talks](https://github.com/cyplo/talks), *December 2013 - October 2014*
+##Web presence  
+[email](mailto:resume@cyplo.net) me at resume@cyplo.net  
+my gpg fingerprint: F89F 039F C9F4 3A0E E959 C89F D6C1 3574 0165 CC74  
 
-markdown
-
-This is a repository with sources for presentations for my newer talks
-  
-
-
----
-
-**GitHub - sunpowered**, [https://github.com/cyplo/sunpowered](https://github.com/cyplo/sunpowered), *January 2014 - February 2015*
-
-python, kicad
-
-This is stuff loosely related to my sun-powered server box that lives on my balcony
-  
-
+[my blog](https://blog.cyplo.net) where I write about little things I've managed to discover or fix  
+[Diaspora](cyplo@pod.ponk.pink) - I'm a podmin here  
+[Twitter](https://twitter.com/cyplo)
 
 ---
 
-**GitHub - apprenticeship**, [https://github.com/cyplo/apprenticeship](https://github.com/cyplo/apprenticeship), *August 2014 - October 2014*
-
-
-Notes on teaching other programmers, apprenticeship programs.
-  
-
-
----
-
-**GitHub - Marlin**, [https://github.com/cyplo/Marlin](https://github.com/cyplo/Marlin), *August 2014 - January 2015*
-
-
-Reprap FW with look ahead. SDcard and LCD support. It works on Gen6, Ultimaker, RAMPS and Sanguinololu
-  
-
-
----
-
-**GitHub - Slic3r**, [https://github.com/cyplo/Slic3r](https://github.com/cyplo/Slic3r), *January 2015*
-
-
-G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
-  
-
-
----
-
-**GitHub - kicad-library**, [https://github.com/cyplo/kicad-library](https://github.com/cyplo/kicad-library), *February 2015*
-
-
-The schematic and 3D libraries supported by KiCad team.  Note that the footprint libraries are the *.pretty repos themselves.
-  
-
-
----
-
-**GitHub - erlang_tech_night**, [https://github.com/erlang-wroclaw/erlang_tech_night](https://github.com/erlang-wroclaw/erlang_tech_night), *March 2013*
-
-
-Erlang Tech Night - Infusion @ 2013-03-04
-  
-
-
----
-
-##Writing
-
-**How to hire a programmer, a.k.a. tech recruitment explained**, [http://blog.cyplo.net/2011/07/24/how-to-hire-people/](http://blog.cyplo.net/2011/07/24/how-to-hire-people/)
-
-
-My viewpoint on how to hire tech people.
-
----
-
-
-## Tools
-**First Computer:** IBM 286 with 2MB RAM
-
-**Favourite Editor:** vim
