@@ -4,7 +4,7 @@
 - https://www.cyplo.net
 
 ---
-##Experience
+##Day jobs
 I'm take a problem and dig into it. I help solve the business issues, most commonly using software. At most of of my jobs my day consisted of writing programs, documentation, reviewing code, recruiting and teaching. 
 
 **Consultant** at Infusion, *June 2012 - Now*  
@@ -21,13 +21,13 @@ Projects:
 
 **Senior Software Engineer**, Power Media S.A., *February 2011 - June 2012*
 
-I was asked to return to Power Media by the head of the whole department, this was quite cool ! I've helped recruit more people and was one of the developers working on the system for TV materials storage.
+I was asked to return to Power Media by the head of the whole department, this was quite cool ! I've helped recruit more people and was one of the developers working on the system for TV materials storage. The system was written in C#. 
 
 ---
 
-**Mobile Games Developer**, iNTRES, *December 2009 - February 2011*
+**Mobile Games Developer**, iNTRES/Scoreloop, *December 2009 - February 2011*  
 
-
+I was a part of a team that was tasked with developing a cross-platform, pure C library that provided matchmaking, ladders and other networking capabilities to mobile games, Pro Evolution Soccer 2011 among others. We've used C89 as the base language.
 
 ---
 
@@ -45,7 +45,8 @@ I was asked to return to Power Media by the head of the whole department, this w
 
 ---
 
-
+##Books
+I'm a technical reviewer for ["500 Lines or Less"](https://github.com/aosabook/500lines), a new entry in the Architecture of Open Source Applications book series. I was one of the reviewers for the chapter of a Mozillian [here](https://github.com/aosabook/500lines/pull/69).
 
 ##Projects &amp; Interests
 
