@@ -1,19 +1,19 @@
 
-#Cyryl Plotnicki-Chudyk
+#Cyryl Płotnicki-Chudyk
 - jobs@cyplo.net
 - https://www.cyplo.net
 
 ---
 ##Experience
-I'm take a problem and dig into it. I help solve the business issues, most commonly using software. At most of of my jobs my day consisted of writing programs, documentation, reviewing code and teaching. 
- 
+I'm take a problem and dig into it. I help solve the business issues, most commonly using software. At most of of my jobs my day consisted of writing programs, documentation, reviewing code, recruiting and teaching. 
+
 **Consultant** at Infusion, *June 2012 - Now*  
-Here I'm a main driving force behind Infusion's revamped onboarding programme, making sure that the new hires feel welcome and that they end the first 3 months with a knowledge of company's culture and best programming practices. I also do write code here. Mostly Java and .Net, sprinkled with some c, c++, python, bash and powershell.
+Here I'm a main driving force behind Infusion's revamped on-boarding programme, making sure that the new hires feel welcome and that they end the first 3 months with a knowledge of company's culture and best programming practices. I also do write code here. Mostly Java and .Net, sprinkled with some c, c++, python, bash and powershell.
 
 Projects:  
 
 * Pulse - a product for mass remote software installation and monitoring. Used, among others, in demo kiosk installations, phone retail shops and in-flight entertainment systems.
-* I've helped build a distributed solution for insurance costs calculation for Metlife Japan. Mostly Java, some IBM mainframes and ocassional C++.
+* I've helped build a distributed solution for insurance costs calculation for Metlife Japan. Mostly Java, some IBM mainframes and occasional C++.
 * I've worked for other financial institutions on distributed software for risk exposure analysis. Mostly .net, some c++, large in-house computation farms involved.
 
 
@@ -21,20 +21,13 @@ Projects:
 
 **Senior Software Engineer**, Power Media S.A., *February 2011 - June 2012*
 
-
-helping other developers with particularly difficult technical tasks&lt;br/&gt;
-developing high quality software&lt;br/&gt;
-conducting internal trainings&lt;br/&gt;
-conducting recruitment interviews&lt;br/&gt;
+I was asked to return to Power Media by the head of the whole department, this was quite cool ! I've helped recruit more people and was one of the developers working on the system for TV materials storage.
 
 ---
 
 **Mobile Games Developer**, iNTRES, *December 2009 - February 2011*
 
 
-writing Android/Java, iPhone/Objc, Airplay/C++ and core libraries/C code&lt;br/&gt;
-integrating third party solutions into popular mobile games&lt;br/&gt;
-mentoring junior programmers&lt;br/&gt;
 
 ---
 
