@@ -6,7 +6,7 @@
 ##Books
 ["500 Lines or Less"](https://github.com/aosabook/500lines)  
 I helped a bit with this new entry in the Architecture of Open Source Applications book series.  
-One of the chapters I reviewed was by a Mozillian - [here](https://github.com/aosabook/500lines/pull/69) !
+A sample of the pull request interaction [there](https://github.com/aosabook/500lines/pull/69).
 
 ---
 ##Day jobs
@@ -67,6 +67,7 @@ my gpg fingerprint: F89F 039F C9F4 3A0E E959 C89F D6C1 3574 0165 CC74
 
 [my blog](https://blog.cyplo.net) where I write about little things I've managed to discover or fix  
 Diaspora - cyplo@pod.ponk.pink - I'm a podmin here  
+[github](https://github.com/cyplo) - various experiments there  
 [Twitter](https://twitter.com/cyplo)
 
 ---
