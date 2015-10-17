@@ -9,7 +9,9 @@ I start with some background on the stuff I've built and end with some prose on 
 
 Read on and have a great time !
 
----
+---  
+
+---  
 
 ##Books
 ["500 Lines or Less"](https://github.com/aosabook/500lines)  
@@ -20,11 +22,11 @@ A sample of the pull request interaction [there](https://github.com/aosabook/500
 ##Day jobs
 
 **Consultant** at Infusion, *June 2012 - Now*  
-I'm a main driving force behind Infusion's revamped on-boarding programme, making sure that the new hires feel welcome and that they end the first 3 months with a knowledge of company's culture and best programming practices. Writing code is still where I spend most of my time though, and happily so. Mostly **Java** and **.Net**, sprinkled with some **C**, **C++**, **Python**, bash and powershell. **Docker** somewhere there.
+Writing code is still where I spend most of my time, and happily so. Mostly **Java** and **.Net**, sprinkled with some **C**, **C++**, Python, bash and powershell. **Docker** somewhere there. The work I do is called consulting though, so lots of **human interactions** involved. I gather requirements, talk to clients, other engineers, figure out solutions together. My particular specialty seems to be taking over legacy code bases and making them shine.
 
-Projects:  
+Main Projects:  
 
-* Pulse - a product for mass remote software installation and monitoring. Used, among others, in demo kiosk installations, phone retail shops and in-flight entertainment systems. Writing server and client code. **Android** and .Net
+* Pulse - a product for mass remote software installation and monitoring. Used, among others, in demo kiosk installations, phone retail shops and in-flight entertainment systems. Writing server and client code. Largish system working mostly on the backend in .Net, standing on Azure, sometimes doing changes to our **Android** client code as well.
 * I've helped build a distributed solution for insurance cost calculation for Metlife Japan. Mostly Java, some IBM mainframes and occasional C++.
 * I've worked for other financial institutions on distributed software for risk exposure analysis. Mostly .Net, some C++, large in-house computation farms involved.
 
@@ -39,6 +41,8 @@ I was asked to return to Power Media by the head of the whole department, this w
 
 --- 
   
+---  
+
   
 **Mobile Games Developer**, iNTRES/Scoreloop, *December 2009 - February 2011*  
 
@@ -56,7 +60,9 @@ My first "real" job ! Maintenance on the in-house systems written in Java. Slowl
 ---
 
 ##Some talks I gave
-Most of them on the user group meetings across the country. No conferences yet. The links provided are for the slide decks. I prefer dense talks with sparse slides though.  
+Most of them on the user group meetings across the country. The links provided are for the slide decks. I prefer dense talks with sparse slides though.  
+
+"Languages are communities" - impromptu talk about how communities are the most important thing when choosing your programming language.
 
 ["Tor for beginners"](https://github.com/cyplo/talks/tree/master/tor_for_beginners) - A talk I gave to the local students' groups on the safety on the Internet and what is **Tor**, why to use it and why not.
 
@@ -71,9 +77,9 @@ I like things I interact with to be of quality. I like polishing code. I won a s
 I have a set of [scripts](https://github.com/cyplo/dotfiles) that set up my laptops and VMs from scratch. I like building tools. Be they physical or software. Something that lasts.  
 
 I like teaching - allows me to understand topics in more depth.  
-I'm good at understanding whole worlds of interactions within software projects. The people and their needs and then the system architecture, code itself, its execution. Because of that I'm sometimes slow to comprehend new things. I need an initial load of context of a task. Despite all that I like trying new things though. Like **Rust** or **Haskell**. Not feeling confident in them so far but learning them slowly still.  
+I'm good at understanding whole worlds of interactions within software projects. The people and their needs and then the system architecture, code itself, its execution. Because of that I'm sometimes slow to comprehend new things. I need an initial load of context of a task. Despite all that I like trying new things though. Like **Rust** and am [trying](https://github.com/cyplo/katas/tree/master/rust/game_of_life) to actively learn it. I run my own infrastructure - email, blog, backups.
 
-I ask lots of questions. I like to  be in the understanding of the value of my work. I think there's a big value in sharing. I like open and free software movements. I like **helping people**. I like electronics. I've assembled a RepRap. I'm learning PCB design in **KiCad**. I like debugging. Electronics and software. I have a **CNC** router. I like board and RPG games. Rock climbing. Cycling. Other life activities.
+I ask lots of questions. I like to be in the understanding of the value of my work. I think there's a big value in sharing. I am really into open source movement. I like **helping people**. I like electronics. I've assembled a RepRap. I've built a sun-powered backup server. I'm learning PCB design in **KiCad**. I like debugging. Electronics and software. I have a **CNC** router. I like board and RPG games. Rock climbing. Cycling. Other life activities.
 
 Life issues need some debugging as well, sometimes. I help people understand their business workflows and sometimes even fix them with software.  
 
@@ -84,10 +90,9 @@ Curious reader might want to follow my blog at [blog.cyplo.net](https://blog.cyp
 ##Web presence  
 [email](mailto:resume@cyplo.net) me at resume@cyplo.net  
 my gpg fingerprint: F89F 039F C9F4 3A0E E959 C89F D6C1 3574 0165 CC74  
-
 [my blog](https://blog.cyplo.net) where I write about little things I've managed to discover or fix  
 Diaspora - cyplo@pod.ponk.pink - I'm a podmin here  
-[github](https://github.com/cyplo) - mostly experiments there, spiking out things, withiut much testing. Helping other people with their projects by reporting bugs, fixing documentation and sometimes the code is ther as well. 
+[github](https://github.com/cyplo) - mostly experiments there, spiking out things. Helping other people with their projects by reporting bugs, fixing documentation and sometimes the code is there as well.  
 [Twitter](https://twitter.com/cyplo)
 
 ---
