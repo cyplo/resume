@@ -5,7 +5,7 @@ Nice to meet you !
 I'm [Cyryl Płotnicki-Chudyk](mailto:resume@cyplo.net).  
 
 I like things. Building things and fixing things.   
-I start with some background on the stuff I've built and end with some prose on who I am and how I like to work.  
+Here, I start with some background on the stuff I've built and end with some prose on who I am and how I like to work.  
 
 Read on and have a great time !
 
@@ -26,22 +26,19 @@ Writing code is still where I spend most of my time, and happily so. Mostly **Ja
 
 Main Projects:  
 
-* Pulse - a product for mass remote software installation and monitoring. Used, among others, in demo kiosk installations, phone retail shops and in-flight entertainment systems. Writing server and client code. Largish system working mostly on the backend in .Net, standing on Azure, sometimes doing changes to our **Android** client code as well.
+* Pulse - a product for mass remote software installation and monitoring. Used, among others, in demo kiosk installations, phone retail shops and in-flight entertainment systems. Writing server and client code. Largish system working mostly on the backend in .Net, standing on Azure. I'm helping here and there, with the architecture and sometimes doing changes to our **Android** client code as well.
 * I've helped build a distributed solution for insurance cost calculation for Metlife Japan. Mostly Java, some IBM mainframes and occasional C++.
-* I've worked for other financial institutions on distributed software for risk exposure analysis. Mostly .Net, some C++, large in-house computation farms involved.
+* I've worked for other financial institutions on distributed software for risk exposure analysis. Mostly .Net, some C++, large in-house computation farms involved.  
 
+---  
+
+---  
+
+---  
 
 **Senior Software Engineer**, Power Media S.A., *February 2011 - June 2012*
 
 I was asked to return to Power Media by the head of the whole department, this was quite cool ! I've helped recruit more people and was one of the developers working on the system for TV materials storage. The system was written in **C#**, but I've also took a look inside an **Erlang** one and a one in **Obj-c** as well, from time to time. I've convinced the company to [open source](https://github.com/powermedia/PowerMedia.Common) the core libraries used.
-
---- 
-
---- 
-
---- 
-  
----  
 
   
 **Mobile Games Developer**, iNTRES/Scoreloop, *December 2009 - February 2011*  
@@ -61,6 +58,8 @@ My first "real" job ! Maintenance on the in-house systems written in Java. Slowl
 
 ##Some talks I gave
 Most of them on the user group meetings across the country. The links provided are for the slide decks. I prefer dense talks with sparse slides though.  
+
+["Conferences you did not know existed and now you know you just need to go to"](https://lab.cyplo.net/cyplo/talks/tree/master/conferences) 
 
 "Languages are communities" - impromptu talk about how communities are the most important thing when choosing your programming language.
 
