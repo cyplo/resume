@@ -78,7 +78,7 @@ I like things I interact with to be of quality. I like polishing code. I won a s
 I have a set of [scripts](https://github.com/cyplo/dotfiles) that set up my laptops and VMs from scratch. I like building tools. Be they physical or software. Something that lasts.  
 
 I like teaching - allows me to understand topics in more depth.  
-I'm good at understanding whole worlds of interactions within software projects. The people and their needs and then the system architecture, code itself, its execution. Because of that I'm sometimes slow to comprehend new things. I need an initial load of context of a task. Despite all that I like trying new things though. Like **Rust** and am to actively learn it. I run my own infrastructure - email, blog, backups.
+I'm good at understanding whole worlds of interactions within software projects. The people and their needs and then the system architecture, code itself, its execution. Because of that I'm sometimes slow to comprehend new things. I need an initial load of context of a task. Despite all that I like trying new things though. I like **Rust** quite a bunch and am trying to actively learn it. I run my own infrastructure - email, blog, backups.
 
 I ask lots of questions. I like to be in the understanding of the value of my work. I think there's a big value in sharing. I am really into open source movement. I like **helping people**. I like electronics. I've assembled a RepRap. I've built a sun-powered backup server. I'm learning PCB design in **KiCad**. I like debugging. Electronics and software. I have a **CNC** router. I like board and RPG games. Rock climbing. Cycling. Other life activities.
 
