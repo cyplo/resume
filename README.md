@@ -2,7 +2,7 @@
 
 Hi !
 Nice to meet you !
-I'm [Cyryl Płotnicki-Chudyk](mailto:resume@cyplo.net).  
+I'm [Cyryl Płotnicki](mailto:resume@cyplo.net).  
 
 I like things. Building things and fixing things.   
 Here, I start with some background on the stuff I've built and end with some prose on who I am and how I like to work.  
