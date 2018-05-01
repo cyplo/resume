@@ -2,19 +2,15 @@
 
 Hi !
 Nice to meet you !
-I'm [Cyryl Płotnicki](mailto:resume@cyplo.net).  
+I'm [Cyryl Płotnicki](mailto:hello@cyplo.net).  
 
 I like things. Building things and fixing things.   
-Here, I start with some background on the stuff I've built and end with some prose on who I am and how I like to work.  
-
 Read on and have a great time !
-
-##Books
-I am one of the technical reviewers for the "500 lines or less" book, a new entry in the [Architecture of Open Source Applications](http://aosabook.org/en/index.html) books series.
 
 ##Day jobs
 
-**Software Craftsman** at Codurance, *January 2017 - Now*
+**Software Craftsman** at Codurance, *January 2017 - Now*  
+Helping client teams grow. Teaching through pairing and running workshops (e.g. Legacy Code Retreat, git, TDD).
 
 **Consultant** at Infusion, *June 2012 - November 2016*  
 Writing code is still where I spend most of my time, and happily so. Mostly **Java** and **.Net**, sprinkled with some **C**, **C++**, Python, bash and powershell. **Docker** somewhere there. I gather requirements, talk to the clients, other engineers, figure out solutions together. My particular specialty seems to be taking over legacy code bases and making them shine. I am responsible for a small team of developers.
@@ -42,35 +38,45 @@ This was my first experience as a leader. Despite this we've managed to build th
 
 My first "real" job ! Maintenance on the in-house systems written in Java. Slowly I got into client-facing project as well. Java, Webobjects.
 
-##Some talks I gave
-Most of them on the user group meetings across the country. The links provided are for the slide decks. I prefer dense talks with sparse slides though.  
+##Books
+I am one of the technical reviewers for the "500 lines or less" book, a new entry in the [Architecture of Open Source Applications](http://aosabook.org/en/index.html) books series.
 
-["Conferences you did not know existed and now you know you just need to go to"](https://blog.cyplo.net/posts/2016/03/13/conferences.html) 
+##Talks/workshops
+The links provided are for the slide decks.   
 
-"Languages are communities" - impromptu talk about how communities are the most important thing when choosing your programming language.
+* Mastering Git
 
-["Tor for beginners"](https://github.com/cyplo/talks/tree/master/tor_for_beginners) - A talk I gave to the local students' groups on the safety on the Internet and what is **Tor**, why to use it and why not.
+* Outside-in TDD in Rust
 
-["Erlang for the .Net people"](https://github.com/erlang-wroclaw/erlang_tech_night) - introduction to Erlang with some live coding by me and my friend Fabian
+* Legacy Code Retreat - running a full-day workshop on test-driving changes in legacy code.
 
-["Anatomy of a debugger"](https://prezi.com/hzvnsznfkgwj/anatomy-of-the-debugger/)  - very high-level overview of how debugging works
+* A secret to secure software (ssshhh it's TDD)
+
+* ["Conferences you did not know existed and now you know you just need to go to"](https://blog.cyplo.net/posts/2016/03/13/conferences.html) 
+
+* "Languages are communities" - impromptu talk about how communities are the most important thing when choosing your programming language.
+
+* ["Tor and what it's for"](https://github.com/cyplo/talks/tree/master/tor_for_beginners)
+
+* ["Erlang for the .Net people"](https://github.com/erlang-wroclaw/erlang_tech_night) - introduction to Erlang with some live coding by me and my friend Fabian
+
+* ["Anatomy of a debugger"](https://prezi.com/hzvnsznfkgwj/anatomy-of-the-debugger/)  - very high-level overview of how debugging works
 
 ##More to read
-I like things I interact with to be of quality. I like polishing code. I won a set of quality Wiha screwdrivers in a contest by Digikey. I like them, they are of quality. I like **Vim**.  
-I have a set of [scripts](https://github.com/cyplo/dotfiles) that set up my laptops and VMs from scratch. I like building tools. Be they physical or software. Something that lasts.  
+I like building tools. Be they physical or software. Something that lasts.  
 
 I like teaching - allows me to understand topics in more depth.  
-I'm good at understanding whole worlds of interactions within software projects. The people and their needs and then the system architecture, code itself, its execution. Because of that I'm sometimes slow to comprehend new things. I need an initial load of context of a task. Despite all that I like trying new things though. I like **Rust** quite a bunch and am trying to actively learn it. I run my own infrastructure - email, blog, backups.
+I'm good at understanding whole worlds of interactions within software projects. The people and their needs and then the system architecture, code itself, its execution. Because of that I'm sometimes slow to comprehend new things. I really like trying new things. I like **Rust** quite a bunch and am trying to actively learn it - I am a contributor to the core Rust projects. I run my own infrastructure - email, blog, backups.
 
-I ask lots of questions. I like to be in the understanding of the value of my work. I think there's a big value in sharing. I am really into open source movement. I like **helping people**. I like electronics. I've assembled a RepRap. I've built a sun-powered backup server. I'm learning PCB design in **KiCad**. I like debugging. Electronics and software. I have a **CNC** router. I like board and RPG games. Rock climbing. Cycling. Other life activities.
+I ask a lot of questions. I like to be in the understanding of the value of my work. I think there's a big value in sharing. I am really into the open source movement. I like **helping people**. I like electronics. I've assembled a RepRap. I've built a sun-powered backup server. I'm learning PCB design in **KiCad** and CAD via Fusion360. I like debugging. Electronics and software. I have a **CNC** router. I like board and RPG games. Rock climbing. Cycling. Other life activities.
 
 Life issues need some debugging as well, sometimes. I help people understand their business workflows and sometimes even fix them with software.  
 
 Curious reader might want to follow my blog at [blog.cyplo.net](https://blog.cyplo.net/)
 
 ##Web presence  
-[email](mailto:resume@cyplo.net) me at resume@cyplo.net  
+[email](mailto:hello@cyplo.net) me at hello@cyplo.net  
 my gpg fingerprint: F89F 039F C9F4 3A0E E959 C89F D6C1 3574 0165 CC74  
 [my blog](https://blog.cyplo.net) where I write about little things I've managed to discover or fix  
-[github](https://github.com/cyplo) - mostly experiments there, spiking out things. Helping other people with their projects by reporting bugs, fixing documentation and sometimes the code is there as well.  
+[github](https://github.com/cyplo) - mostly experiments there, spiking things out Contributing to some opensource projects as well. documentation and sometimes the code is there as well.  
 [Twitter](https://twitter.com/cyplo)
