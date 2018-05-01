@@ -28,7 +28,7 @@ I was asked to return to Power Media by the head of the whole department, this w
   
 **Mobile Games Developer**, iNTRES/Scoreloop, *December 2009 - February 2011*  
 
-I was a part of a team that was tasked with developing a cross-platform, pure C library that provided matchmaking, ladders and other networking capabilities to mobile games, **Pro Evolution Soccer 2011** among others. We've used C89 as the base language. There was another team, working in Ruby on the server side, we had lots of chats with them on the APIs. Oftentimes I needed to delve deeply into performance issues on completely foreign legacy code bases.
+I was a part of a team that was tasked with developing a cross-platform, pure C library that provided matchmaking, ladders and other networking capabilities to mobile games, **Pro Evolution Soccer 2011** among others. We've used C89 as the base language.
 
 **Lead Developer**, Power Media S.A., *June 2007 - December 2009*
 
@@ -62,6 +62,13 @@ The links provided are for the slide decks.
 
 * ["Anatomy of a debugger"](https://prezi.com/hzvnsznfkgwj/anatomy-of-the-debugger/)  - very high-level overview of how debugging works
 
+##Web presence  
+[email](mailto:hello@cyplo.net) me at hello@cyplo.net  
+my gpg fingerprint: F89F 039F C9F4 3A0E E959 C89F D6C1 3574 0165 CC74  
+[my blog](https://blog.cyplo.net) where I write about little things I've managed to discover or fix  
+[github](https://github.com/cyplo) - some experiments, open source contributions  
+[Twitter](https://twitter.com/cyplo)
+
 ##More to read
 I like building tools. Be they physical or software. Something that lasts.  
 
@@ -74,9 +81,5 @@ Life issues need some debugging as well, sometimes. I help people understand the
 
 Curious reader might want to follow my blog at [blog.cyplo.net](https://blog.cyplo.net/)
 
-##Web presence  
-[email](mailto:hello@cyplo.net) me at hello@cyplo.net  
-my gpg fingerprint: F89F 039F C9F4 3A0E E959 C89F D6C1 3574 0165 CC74  
-[my blog](https://blog.cyplo.net) where I write about little things I've managed to discover or fix  
-[github](https://github.com/cyplo) - mostly experiments there, spiking things out Contributing to some opensource projects as well. documentation and sometimes the code is there as well.  
-[Twitter](https://twitter.com/cyplo)
+[Email me](mailto:hello@cyplo.net) at hello@cyplo.net - I'm happy to have a chat with you !
+
