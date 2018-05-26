@@ -1,17 +1,22 @@
 #Intro
 
 Hi !
-Nice to meet you !
+Nice to meet you !  
 I'm [Cyryl Płotnicki](mailto:hello@cyplo.net).  
 
-I like things. Building things and fixing things.   
+I like things.  
+Building things and fixing things.   
 Read on and have a great time !
 
 ##Day jobs
 
 **Software Craftsman** at Codurance, *January 2017 - Now*  
-Helping client teams grow. Teaching through pairing and running workshops (e.g. Legacy Code Retreat, git, TDD).
-
+Helping client teams grow.  
+Teaching through pairing and running workshops (e.g. Legacy Code Retreat, git, TDD).  
+Running Rust pairing sessions and intro to Rust workshops.  
+Working on distributed systems for big retailers and small startups alike.  
+Facilitating open-space conferences.
+  
 **Consultant** at Infusion, *June 2012 - November 2016*  
 Writing code is still where I spend most of my time, and happily so. Mostly **Java** and **.Net**, sprinkled with some **C**, **C++**, Python, bash and powershell. **Docker** somewhere there. I gather requirements, talk to the clients, other engineers, figure out solutions together. My particular specialty seems to be taking over legacy code bases and making them shine. I am responsible for a small team of developers.
 
@@ -23,7 +28,7 @@ Main Projects:
 
 **Senior Software Engineer**, Power Media S.A., *February 2011 - June 2012*
 
-I was asked to return to Power Media by the head of the whole department, this was quite cool ! I've helped recruit more people and was one of the developers working on the system for TV materials storage. The system was written in **C#**, but I've also took a look inside an **Erlang** one and a one in **Obj-c** as well, from time to time. I've convinced the company to [open source](https://github.com/powermedia/PowerMedia.Common) the core libraries used.
+I was asked to return to Power Media by the head of the whole department, this was quite cool ! I've helped recruit more people and was one of the developers working on the system for TV materials storage. The system was written in **C#**, but I've also took a look inside an **Erlang** one and a one in **Obj-c** as well, from time to time. I've convinced the company to [open source](https://github.com/powermedia/PowerMedia.Common) the core libraries used.  
 
   
 **Mobile Games Developer**, iNTRES/Scoreloop, *December 2009 - February 2011*  
@@ -39,7 +44,7 @@ This was my first experience as a leader. Despite this we've managed to build th
 My first "real" job ! Maintenance on the in-house systems written in Java. Slowly I got into client-facing project as well. Java, Webobjects.
 
 ##Books
-I am one of the technical reviewers for the "500 lines or less" book, a new entry in the [Architecture of Open Source Applications](http://aosabook.org/en/index.html) books series.
+I am one of the technical reviewers for the "500 lines or less" book, a new entry in the [Architecture of Open Source Applications](http://aosabook.org/en/index.html) books series. I helped to shape the chapter on Paxos there.
 
 ##Talks/workshops
 The links provided are for the slide decks.   
