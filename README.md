@@ -1,30 +1,37 @@
-#Intro
-
-Hi !
-Nice to meet you !  
-I'm [Cyryl Płotnicki](mailto:hello@cyplo.net).  
-
-I like things.  
-Building things and fixing things.   
-Read on and have a great time !
+#Heya !
+Hope you're having a great day !  
+  
+I'm [Cyryl](mailto:hello@cyplo.net) and I like working with other people on software and business processes.  
+I like tending to software projects and teams that run them.  
+I am the most fluent with building large systems but have also worked in the space of constrained resources.  
+Technology choice is less important to me than culture.  
+The more open and transparent the better I like it !    
+Also puns, I like puns.
 
 ##Day jobs
 
 **Software Craftsman** at Codurance, *January 2017 - Now*  
-Helping client teams grow.  
-Teaching through pairing and running workshops (e.g. Legacy Code Retreat, git, TDD).  
-Running Rust pairing sessions and intro to Rust workshops.  
-Working on distributed systems for big retailers and small startups alike.  
-Facilitating open-space conferences.
+Helping client teams grow - working within software teams and teaching technical concepts as well as improving the process.    
+Running workshops (e.g. Legacy Code Retreat, advanced git, **TDD**).  
+Running **Rust** pairing sessions and intro to Rust workshops.  
+Facilitating open-space conferences.  
+
+Projects:
+
+* Transportation route planning software for a big retailer, using a graph database (**Gremlin/Apache Tinkerpop**)
+* Transaction consolidation software for a bank.
+* Electronics simulation software for a startup.
+
   
 **Consultant** at Infusion, *June 2012 - November 2016*  
 Writing code is still where I spend most of my time, and happily so. Mostly **Java** and **.Net**, sprinkled with some **C**, **C++**, Python, bash and powershell. **Docker** somewhere there. I gather requirements, talk to the clients, other engineers, figure out solutions together. My particular specialty seems to be taking over legacy code bases and making them shine. I am responsible for a small team of developers.
 
-Main Projects:  
+Projects:  
 
 * Pulse - a product for mass remote software installation and monitoring. Used, among others, in demo kiosk installations, phone retail shops and in-flight entertainment systems. Writing server and client code. Largish system working mostly on the backend in .Net, standing on Azure. I'm helping here and there, with the architecture and sometimes doing changes to our **Android** client code as well.
-* I've helped build a distributed solution for insurance cost calculation for Metlife Japan. Mostly Java, some IBM mainframes and occasional C++.
+* I've helped build a **distributed** solution for insurance cost calculation for Metlife Japan. Mostly Java, some IBM mainframes and occasional C++.
 * I've worked for other financial institutions on distributed software for risk exposure analysis. Mostly .Net, some C++, large in-house computation farms involved.  
+
 
 **Senior Software Engineer**, Power Media S.A., *February 2011 - June 2012*
 
