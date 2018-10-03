@@ -11,7 +11,8 @@ Also puns, I like puns.
 ##Day jobs
 
 **Software Craftsman** at Codurance, *January 2017 - Now*  
-Helping client teams grow - working within software teams and teaching technical concepts as well as improving the process.    
+Employee #15.  
+Helping client teams grow - working within software teams and teaching technical concepts as well as improving the processes.    
 Running workshops (e.g. Legacy Code Retreat, advanced git, **TDD**).  
 Running **Rust** pairing sessions and intro to Rust workshops.  
 Facilitating open-space conferences.  
