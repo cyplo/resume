@@ -11,7 +11,7 @@ I started a [blog](https://blog.cyplo.net/) post series on testing in [Rust](htt
 
 I was in both leadership and individual contributor roles, I have respect for all sides involved in the process.
 
-I like testing, I taught various aspects of **TDD** in an apprenticeship course.  
+I like testing, I taught various aspects of TDD in an apprenticeship course.  
 
 ##Day jobs
 
