@@ -1,37 +1,47 @@
 #Heya !
 Hope you're having a great day !  
-  
-I'm [Cyryl](mailto:hello@cyplo.net) and I like working with other people on software and business processes.  
-I like tending to software projects and teams that run them.  
-I am the most fluent with building large systems but have also worked in the space of constrained resources.  
-Technology choice is less important to me than culture.  
-The more open and transparent the better I like it !    
-Also puns, I like puns.
+
+
+## Interesting random tidbits about me
+
+I am [running](https://blog.cyplo.net/posts/2018/05/pair-with-me-on-rust.html) remote pairing sessions, helping people with Rust.  
+My recent focus is [adding fuzzer](https://twitter.com/cyplo/status/1094606119421521922) infrastructure to their projects.  
+
+I started a [blog](https://blog.cyplo.net/) post series on testing in [Rust](https://blog.cyplo.net/categories/rust.html) where I share the [tricks](https://blog.cyplo.net/posts/2018/09/rust-testing-tricks.html) I've learned.  
+
+I was in both leadership and individual contributor roles, I have respect for all sides involved in the process.
+
+I like testing, I taught various aspects of **TDD** in an apprenticeship course.  
 
 ##Day jobs
 
-**Software Craftsman** at Codurance, *January 2017 - Now*  
+**Software Engineer** at balena, *October 2018 - Now*  
+I work remotely on **Rust** crates compiled into NPM packages through the power of **WASM**.  
+As all of the above is on the bleeding edge - I find, report and fix bugs throughout the ecosystem.
+
+
+**Software Craftsman** (Consultant) at Codurance, *January 2017 - October 2018*  
 Helping client teams grow - working within software teams and teaching technical concepts as well as improving the process.    
 Running workshops (e.g. Legacy Code Retreat, advanced git, **TDD**).  
 Running **Rust** pairing sessions and intro to Rust workshops.  
 Facilitating open-space conferences.  
+Teaching at the apprenticeship programme.  
 
 Projects:
 
-* Transportation route planning software for a big retailer, using a graph database (**Gremlin/Apache Tinkerpop**)
-* Transaction consolidation software for a bank.
-* Electronics simulation software for a startup.
-
+* Transportation route planning software for a big retailer, using a graph database (**Gremlin/Apache Tinkerpop**) in Java. Managed deployment to **AWS** via **Terraform**.
+* Transaction consolidation software for an investment bank.
+* Electronic circuit simulation software for a startup.
   
 **Consultant** at Infusion, *June 2012 - November 2016*  
-Writing code is still where I spend most of my time, and happily so. Mostly **Java** and **.Net**, sprinkled with some **C**, **C++**, Python, bash and powershell. **Docker** somewhere there. I gather requirements, talk to the clients, other engineers, figure out solutions together. My particular specialty seems to be taking over legacy code bases and making them shine. I am responsible for a small team of developers.
+Writing code is still where I spend most of my time, and happily so.  
+I do that in **Java** and **.Net**, sprinkled with some **C**, **C++**, Python, bash and powershell I gather requirements, talk to the clients, other engineers, figure out solutions together. My particular specialty seems to be taking over legacy code bases and making them shine. I am responsible for a small team of developers.
 
 Projects:  
 
 * Pulse - a product for mass remote software installation and monitoring. Used, among others, in demo kiosk installations, phone retail shops and in-flight entertainment systems. Writing server and client code. Largish system working mostly on the backend in .Net, standing on Azure. I'm helping here and there, with the architecture and sometimes doing changes to our **Android** client code as well.
 * I've helped build a **distributed** solution for insurance cost calculation for Metlife Japan. Mostly Java, some IBM mainframes and occasional C++.
 * I've worked for other financial institutions on distributed software for risk exposure analysis. Mostly .Net, some C++, large in-house computation farms involved.  
-
 
 **Senior Software Engineer**, Power Media S.A., *February 2011 - June 2012*
 
@@ -51,45 +61,33 @@ This was my first experience as a leader. Despite this we've managed to build th
 My first "real" job ! Maintenance on the in-house systems written in Java. Slowly I got into client-facing project as well. Java, Webobjects.
 
 ##Books
-I am one of the technical reviewers for the "500 lines or less" book, a new entry in the [Architecture of Open Source Applications](http://aosabook.org/en/index.html) books series. I helped to shape the chapter on Paxos there.
+I am one of the technical reviewers for the "500 lines or less" book, a new entry in the [Architecture of Open Source Applications](http://aosabook.org/en/index.html) books series.  
+I helped to shape the chapter on Paxos there.
 
-##Talks/workshops
+##Talks/workshops - ask me to give some !
 The links provided are for the slide decks.   
 
+* Working with legacy code utilizing golden master tests
+* Fuzzing in Rust
 * Mastering Git
-
-* Outside-in TDD in Rust
-
 * Legacy Code Retreat - running a full-day workshop on test-driving changes in legacy code.
-
 * A secret to secure software (ssshhh it's TDD)
-
 * ["Conferences you did not know existed and now you know you just need to go to"](https://blog.cyplo.net/posts/2016/03/13/conferences.html) 
-
 * "Languages are communities" - impromptu talk about how communities are the most important thing when choosing your programming language.
-
-* ["Tor and what it's for"](https://github.com/cyplo/talks/tree/master/tor_for_beginners)
-
+* ["Tor and what it's good for"](https://github.com/cyplo/talks/tree/master/tor_for_beginners)
 * ["Erlang for the .Net people"](https://github.com/erlang-wroclaw/erlang_tech_night) - introduction to Erlang with some live coding by me and my friend Fabian
-
 * ["Anatomy of a debugger"](https://prezi.com/hzvnsznfkgwj/anatomy-of-the-debugger/)  - very high-level overview of how debugging works
-
-##Web presence  
-[email](mailto:hello@cyplo.net) me at hello@cyplo.net  
-my gpg fingerprint: F89F 039F C9F4 3A0E E959 C89F D6C1 3574 0165 CC74  
-[my blog](https://blog.cyplo.net) where I write about little things I've managed to discover or fix  
-[github](https://github.com/cyplo) - some experiments, open source contributions  
-[Twitter](https://twitter.com/cyplo)
 
 ##More to read
 I like building tools. Be they physical or software. Something that lasts.  
 
 I like teaching - allows me to understand topics in more depth.  
-I'm good at understanding whole worlds of interactions within software projects. The people and their needs and then the system architecture, code itself, its execution. Because of that I'm sometimes slow to comprehend new things. I really like trying new things. I like **Rust** quite a bunch and am trying to actively learn it - I am a contributor to the core Rust projects. I run my own infrastructure - email, blog, backups.
+I'm good at understanding whole worlds of interactions within software projects.  
+
+The people and their needs and then the system architecture, code itself, its execution. Because of that I'm sometimes slow to comprehend new things. I really like trying new things. I like **Rust** quite a bunch and am trying to spread that love - I am a contributor to the core Rust projects. I run my own infrastructure - email, blog, backups.
 
 I ask a lot of questions. I like to be in the understanding of the value of my work. I think there's a big value in sharing. I am really into the open source movement. I like **helping people**. I like electronics. I've assembled a RepRap. I've built a sun-powered backup server. I'm learning PCB design in **KiCad** and CAD via Fusion360. I like debugging. Electronics and software. I have a **CNC** router. I like board and RPG games. Rock climbing. Cycling. Other life activities.
 
-Life issues need some debugging as well, sometimes. I help people understand their business workflows and sometimes even fix them with software.  
 
 Curious reader might want to follow my blog at [blog.cyplo.net](https://blog.cyplo.net/)
 
