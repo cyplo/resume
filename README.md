@@ -1,5 +1,5 @@
 #Heya !
-Hope you're having a great day !  
+My name is Cyryl and I hope you're having a great day !  
 
 
 ## Interesting random tidbits about me
@@ -60,6 +60,10 @@ This was my first experience as a leader. Despite this we've managed to build th
 
 My first "real" job ! Maintenance on the in-house systems written in Java. Slowly I got into client-facing project as well. Java, Webobjects.
 
+##Education
+
+**Wrocław University of Technology** 2005-2007
+
 ##Books
 I am one of the technical reviewers for the "500 lines or less" book, a new entry in the [Architecture of Open Source Applications](http://aosabook.org/en/index.html) books series.  
 I helped to shape the chapter on Paxos there.
@@ -77,6 +81,8 @@ The links provided are for the slide decks.
 * ["Tor and what it's good for"](https://github.com/cyplo/talks/tree/master/tor_for_beginners)
 * ["Erlang for the .Net people"](https://github.com/erlang-wroclaw/erlang_tech_night) - introduction to Erlang with some live coding by me and my friend Fabian
 * ["Anatomy of a debugger"](https://prezi.com/hzvnsznfkgwj/anatomy-of-the-debugger/)  - very high-level overview of how debugging works
+* SMD soldering
+* Start your journey with 3D printing
 
 ##More to read
 I like building tools. Be they physical or software. Something that lasts.  
