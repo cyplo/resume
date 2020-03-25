@@ -1,4 +1,4 @@
-#Heya !
+# Heya !
 My name is Cyryl and I hope you're having a great day !
 
 ## Interesting random tidbits about me
@@ -12,7 +12,7 @@ I was in both leadership and individual contributor roles, I have respect for al
 
 I like testing, I taught various aspects of TDD in an apprenticeship course.
 
-##Day jobs
+## Day jobs
 
 **Core services team lead** at _Form3, May 2019 - now_
 
@@ -59,15 +59,15 @@ This was my first experience as a leader. Despite this we've managed to build th
 
 My first "real" job ! Maintenance on the in-house systems written in Java. Slowly I got into client-facing project as well. Java, Webobjects.
 
-##Education
+## Education
 
 **Wrocław University of Technology** 2005-2007
 
-##Books
+## Books
 I am one of the technical reviewers for the "500 lines or less" book, a new entry in the [Architecture of Open Source Applications](http://aosabook.org/en/index.html) books series.
 I helped to shape the chapter on Paxos there.
 
-##Talks/workshops - ask me to give some !
+## Talks/workshops - ask me to give some !
 The links provided are for the slide decks.
 
 - Working with legacy code utilizing golden master tests
@@ -83,7 +83,7 @@ The links provided are for the slide decks.
 - SMD soldering
 - Start your journey with 3D printing
 
-##More to read
+## More to read
 I like building tools. Be they physical or software. Something that lasts.
 
 I like teaching - allows me to understand topics in more depth.
