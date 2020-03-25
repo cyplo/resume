@@ -14,13 +14,15 @@ I like testing, I taught various aspects of TDD in an apprenticeship course.
 
 ## Day jobs
 
-**Core services team lead** at _Form3, May 2019 - now_
+**Core services team lead** at _Form3, May 2019 - now_  
 
-**Software Engineer** at balena, _October 2018 - May 2019_
+**Software Engineer** at balena, _October 2018 - May 2019_  
+
 I worked remotely on **Rust** crates compiled into NPM packages through the power of **WASM**.
 As all of the above is on the bleeding edge - I find, report and fix bugs throughout the ecosystem.
 
-**Software Craftsman** (Consultant) at Codurance, _January 2017 - October 2018_
+**Software Craftsman** (Consultant) at Codurance, _January 2017 - October 2018_  
+
 Helping client teams grow - working within software teams and teaching technical concepts as well as improving the process.
 Running workshops (e.g. Legacy Code Retreat, advanced git, **TDD**).
 Running **Rust** pairing sessions and intro to Rust workshops.
@@ -33,7 +35,8 @@ Projects:
 - Transaction consolidation software for an investment bank.
 - Electronic circuit simulation software for a startup.
 
-**Consultant** at Infusion, _June 2012 - November 2016_
+**Consultant** at Infusion, _June 2012 - November 2016_  
+
 Writing code is still where I spend most of my time, and happily so.
 I do that in **Java** and **.Net**, sprinkled with some **C**, **C++**, Python, bash and powershell I gather requirements, talk to the clients, other engineers, figure out solutions together. My particular specialty seems to be taking over legacy code bases and making them shine. I am responsible for a small team of developers.
 
@@ -43,19 +46,19 @@ Projects:
 - I've helped build a **distributed** solution for insurance cost calculation for Metlife Japan. Mostly Java, some IBM mainframes and occasional C++.
 - I've worked for other financial institutions on distributed software for risk exposure analysis. Mostly .Net, some C++, large in-house computation farms involved.
 
-**Senior Software Engineer**, Power Media S.A., _February 2011 - June 2012_
+**Senior Software Engineer**, Power Media S.A., _February 2011 - June 2012_  
 
 I was asked to return to Power Media by the head of the whole department, this was quite cool ! I've helped recruit more people and was one of the developers working on the system for TV materials storage. The system was written in **C#**, but I've also took a look inside an **Erlang** one and a one in **Obj-c** as well, from time to time. I've convinced the company to [open source](https://github.com/powermedia/PowerMedia.Common) the core libraries used.
 
-**Mobile Games Developer**, iNTRES/Scoreloop, _December 2009 - February 2011_
+**Mobile Games Developer**, iNTRES/Scoreloop, _December 2009 - February 2011_  
 
 I was a part of a team that was tasked with developing a cross-platform, pure C library that provided matchmaking, ladders and other networking capabilities to mobile games, **Pro Evolution Soccer 2011** among others. We've used C89 as the base language.
 
-**Lead Developer**, Power Media S.A., _June 2007 - December 2009_
+**Lead Developer**, Power Media S.A., _June 2007 - December 2009_  
 
 This was my first experience as a leader. Despite this we've managed to build the new [travelplanet.pl](http://www.travelplanet.pl/) - a website for the biggest trip broker in Poland. This was a .Net job and involved some quite heavy server machinery. Around **60 different data sources** were involved. In the meantime I've also helped with growing the **Erlang** team and got my hands dirty with proof-of-concept **low-level** Mac **PowerPC** programming.
 
-**Software Developer**, Power Media S.A., _June 2006 - June 2007_
+**Software Developer**, Power Media S.A., _June 2006 - June 2007_  
 
 My first "real" job ! Maintenance on the in-house systems written in Java. Slowly I got into client-facing project as well. Java, Webobjects.
 
