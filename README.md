@@ -1,11 +1,11 @@
-My name is Cyryl and I hope you're having a great day !
+My name is Cyryl Płotnicki and I hope you're having a great day !
 
 ## Interesting random tidbits about me
 
 I am [running](https://blog.cyplo.net/posts/2018/05/pair-with-me-on-rust.html) remote pairing sessions, helping people with Rust.
 My recent focus is [adding fuzzer](https://twitter.com/cyplo/status/1094606119421521922) infrastructure to their projects.
 
-I started a [blog](https://blog.cyplo.net/) post series on testing in [Rust](https://blog.cyplo.net/categories/rust.html) where I share the [tricks](https://blog.cyplo.net/posts/2018/09/rust-testing-tricks.html) I've learned.
+I started a [blog post series](https://blog.cyplo.net/series/rust-testing-tricks/) on testing in [Rust](https://blog.cyplo.net/categories/rust.html) where I share the tricks I've learned.
 
 I was in both leadership and individual contributor roles, I have respect for all sides involved in the process.
 
